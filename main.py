@@ -283,7 +283,7 @@ def generate_pdf_report(filename, frame_number, best_hue, best_data):
 # === ГОЛОВНА ТОЧКА ВХОДУ ===
 
 def main():
-    video_path = "D:/3course_2sem/project_work_pet/istockphoto-1256494688-640_adpp_is.mp4"
+    video_path = "./istockphoto-1256494688-640_adpp_is.mp4"
     frame_number = 1
     hue1 = 0
     hue2 = 30
